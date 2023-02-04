@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "spellcheck": true
+}

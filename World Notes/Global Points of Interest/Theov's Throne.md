@@ -1,0 +1,1 @@
+At the peak of Theov's Throne, there resides a portal to his court.
