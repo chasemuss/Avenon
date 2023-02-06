@@ -23,12 +23,8 @@
             "id": "59be22004a1436c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To Do.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,6 +183,8 @@
   },
   "active": "59be22004a1436c6",
   "lastOpenFiles": [
+    "To Do List.md",
+    "To Do.md",
     "Leah_Campaign_Ideas.md",
     "World Notes/Avenon Map.svg",
     "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md",
@@ -198,8 +192,6 @@
     "Unused Ideas/Elven Society.md",
     "Unused Ideas/Interesting Party Ideas.md",
     "World Notes/Countries/Zhoverinia/Rachinoff and The Tefraslangur.md",
-    "Unused Ideas/Other Notes.md",
-    "Unused Ideas/Magic Items.md",
-    "World Notes/Religions/Court of Theov.md"
+    "Unused Ideas/Other Notes.md"
   ]
 }
