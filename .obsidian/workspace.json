@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "55d594a3f41ff89d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d071cbed34f3c644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d16f7d13962ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d106516995144f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddfdc6e9f2e0e5b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d454da9672a5f94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "873add9ce59de944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b453f8ce88115ced",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de85a1cb2bb094c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7081eabde2647b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3faa64a994a6cbf9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b291cf32aab4dea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e5c4f771e773132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e6d084b582f6453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee807f8d2dfb6e55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md"
+              }
+            }
+          },
+          {
+            "id": "2eaa5b9d11a9c722",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "24d16f7d13962ec7",
+  "lastOpenFiles": [
+    "Leah_Campaign_Ideas.md",
+    "Leah's Campaign.md"
+  ]
+}
