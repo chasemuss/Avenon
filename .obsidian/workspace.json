@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b933bd8e3a86d635",
+        "id": "7a3f7fcfbcc89107",
         "type": "tabs",
         "children": [
           {
-            "id": "743f1b783791dfb1",
+            "id": "67e7a4d24ed42624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md",
+                "file": "Leah_Campaign_Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59be22004a1436c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -171,22 +184,22 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
+      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:Open random note": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "743f1b783791dfb1",
+  "active": "59be22004a1436c6",
   "lastOpenFiles": [
+    "Leah_Campaign_Ideas.md",
+    "World Notes/Avenon Map.svg",
+    "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md",
     "Templates/Country Template.md",
     "Unused Ideas/Elven Society.md",
     "Unused Ideas/Interesting Party Ideas.md",
     "World Notes/Countries/Zhoverinia/Rachinoff and The Tefraslangur.md",
     "Unused Ideas/Other Notes.md",
     "Unused Ideas/Magic Items.md",
-    "World Notes/Religions/Court of Theov.md",
-    "World Notes/Non Material Planes/Non-Material Planes.md",
-    "World Notes/Countries/Kingdom of Alblewichia/Riku, King of Alblewichia.md",
-    "World Notes/Countries/Kingdom of Bolandia/Kingdom of Bolandia.md"
+    "World Notes/Religions/Court of Theov.md"
   ]
 }
