@@ -3,7 +3,7 @@ Alias: Rachinoff, The Tefraslangur
 ---
 
 # Rachinoff
-Rachinoff is an archmage at the [[Zhoverinia Conservatory#Necromancy|Zhoverinia Conservatory - Necromancy Division]]. He has been studying the very fundamentals of magic itself. His primary goal in this pursuit is to elevate himself to the point that he can utilize the magic of others. This effort is sponsored by the ruler of [[Zhoverinia]], [[Alexsei Grekov]], who wants to become a being of pure magic, able to manipulate how others can utilize the current of magic. 
+Rachinoff is an archmage at the [[Zaoverinia Conservatory#Necromancy|Zhoverinia Conservatory - Necromancy Division]]. He has been studying the very fundamentals of magic itself. His primary goal in this pursuit is to elevate himself to the point that he can utilize the magic of others. This effort is sponsored by the ruler of [[Zaoverinia]], [[Alexsei Grekov]], who wants to become a being of pure magic, able to manipulate how others can utilize the current of magic. 
 
 Once he found out how to create the Tefraslangur, Rachinoff created a disease to help feed it. He created a plant-like magic to transport the spores of the Tefraslangur to other places, far and wide. 
 

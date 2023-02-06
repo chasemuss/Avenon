@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7903bd60abe676df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,9 +181,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "24d16f7d13962ec7",
+  "active": "7903bd60abe676df",
   "lastOpenFiles": [
     "Leah_Campaign_Ideas.md",
-    "Leah's Campaign.md"
+    "Leah's Campaign.md",
+    "To Do.md",
+    "Unused Ideas/Quest Ideas.md",
+    "README.md",
+    "World Notes/Countries/Zaoverinia/Zaoverinia Conservatory.md",
+    "World Notes/Countries/Zaoverinia/Zaoverinia.md",
+    "World Notes/Countries/Holy State of Alnasla/Dretha.md"
   ]
 }
