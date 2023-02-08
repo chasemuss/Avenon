@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "file": "Leah_Campaign_Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04041e10dabf7ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leah_Campaign_Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "file": "Leah_Campaign_Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md",
+                "file": "Leah_Campaign_Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Countries/Holy State of Alnasla/Dretha.md"
+                "file": "Leah_Campaign_Ideas.md"
               }
             }
           },
@@ -181,15 +193,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7903bd60abe676df",
+  "active": "04041e10dabf7ca2",
   "lastOpenFiles": [
+    "Scenario 1 - Where's Mommy.md",
     "Leah_Campaign_Ideas.md",
-    "Leah's Campaign.md",
     "To Do.md",
+    "Leah's Campaign.md",
+    "World Notes/Countries/Holy State of Alnasla/Holy State of Alnasla.md",
+    "World Notes/Countries/Holy State of Alnasla/Dretha.md",
     "Unused Ideas/Quest Ideas.md",
     "README.md",
     "World Notes/Countries/Zaoverinia/Zaoverinia Conservatory.md",
-    "World Notes/Countries/Zaoverinia/Zaoverinia.md",
-    "World Notes/Countries/Holy State of Alnasla/Dretha.md"
+    "World Notes/Countries/Zaoverinia/Zaoverinia.md"
   ]
 }
