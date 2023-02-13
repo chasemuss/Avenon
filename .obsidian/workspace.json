@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d071cbed34f3c644",
+        "id": "07f80c6522e29aef",
         "type": "tabs",
         "children": [
           {
-            "id": "24d16f7d13962ec7",
+            "id": "551094fceb3a979c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7903bd60abe676df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leah_Campaign_Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04041e10dabf7ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leah_Campaign_Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25e16991584e9e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Lore.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Lore.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,13 +136,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "45009b38e1e7c675",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 370.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -205,17 +168,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "25e16991584e9e24",
+  "floating": {
+    "id": "adab02b7974982e7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0464ad317d257f35",
+        "type": "window",
+        "children": [
+          {
+            "id": "c1b19c0a1b58ee02",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f15b4c0e0d3447d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Old Notes/World Notes - Old/Non Material Planes/Non-Material Planes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 476,
+        "y": 134,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "551094fceb3a979c",
   "lastOpenFiles": [
-    "Leah_Campaign_Ideas.md",
-    "World Notes/Pantheon/Vivipo.md",
-    "World Notes/Avenon Map Notes.md",
-    "World Notes/Pantheon/Phoros.md",
-    "World Notes/Pantheon/Court of Theov.md",
-    "Scenario 1 - Where's Mommy.md",
+    "conflict-files-obsidian-git.md",
+    "World Mythology.md",
     "To Do.md",
-    "Leah's Campaign.md",
-    "World Notes/Countries/Holy State of Alnasla/Holy State of Alnasla.md",
-    "World Notes/Countries/Holy State of Alnasla/Dretha.md"
+    "Campaign Ideas.md",
+    "Old Notes/Scenario 1 - Where's Mommy.md",
+    "README.md",
+    "Race_Tree.canvas",
+    "Old Notes/OG Avenon.svg",
+    "Avenon Map.svg",
+    "Old Notes/Avenon 2023-02-11-21-26.svg"
   ]
 }

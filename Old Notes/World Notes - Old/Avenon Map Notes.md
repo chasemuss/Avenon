@@ -2,7 +2,7 @@
 Tags: Country 
 ---
 
-![[Avenon Map.svg]]
+![[Old Notes/World Notes - Old/Avenon Map.svg]]
 
 White Space = Mountain Ranges
 

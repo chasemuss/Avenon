@@ -1,0 +1,1 @@
+Ruled by a family of Vampires who have a close alliance with the ruling class of [[Tridentum]]
