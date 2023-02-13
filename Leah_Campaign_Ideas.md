@@ -1,5 +1,3 @@
-
-
 # Goals
 - Something Cool
 - Mysterious
@@ -8,7 +6,6 @@
 - Heists
 - Being the bad guy
 - Being a princess
-
 
 # Leah's Campaign
 Write up 3 scenarios for Leah to choose from for her campaign

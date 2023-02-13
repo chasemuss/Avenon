@@ -1,0 +1,1 @@
+The Prime Material Plane (PMP) was forged by Theov. He created the humans and the beasts. He also created the other gods who would help govern this new world. After he was done, he vanished for a thousand years. In his absence, a rift was created on the 
