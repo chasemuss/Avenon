@@ -1,4 +1,4 @@
-The Prime Material Plane (PMP) was forged by Theov at the beginning of the first era. He first created the [[Material Plane]]. In it, he created the humans, dwarves, elves, gnomes (including kender), halflings, and beasts. 
+The Prime Plane was forged by Theov at the beginning of the first era. He first created the [[Material Plane]]. In it, he created the humans, dwarves, elves, gnomes (including kender), halflings, and beasts. 
 
 After the material world was made, he turned to that which would govern the world, Chaos vs Law & Good vs Evil, and made a ring of planes that would surround the Material Plane. In this ring, he assigned each element a station in the cosmology. 
 - Water represents good
@@ -13,7 +13,7 @@ Throughout all of this creation and explosion in magic, a Maelstrom formed above
 After Theov was done creating, he vanished for a thousand years, leaving the world in the hands of the gods he placed as stewards.  
 
 In his absence, 4 rifts opened, 2 on each continent. 
-* The South-Eastern rift led to the [[Islands of Paradise]], and from it all manner of merfolk, tritons, and aquatic creatures poured fourth. 
+* The South-Eastern rift led to the [[Islands of Paradise]], and from it all manner of merfolk, tritons, and aquatic creatures poured forth. 
 * The North-Eastern rift led to the [[Fires of Mt. Perdition]], and from it, devils few out and began to influence the world
 * The South-Western rift led to the [[Firestorm of Tartarus]], and from it, all manner of demons arrived to corrupt the land
 * The North-Western rift led to the [[Fields of Elysia]], and from it, angels and Empyreans came forth to bring justice. 
@@ -22,6 +22,8 @@ In his absence, 4 rifts opened, 2 on each continent.
 | ------- | ------------ | ------------ |
 | North   | Lawful Evil  | Lawful Good  |
 | South   | Chaotic Good | Chaotic Evil |
+
+The influence of these four rifts was felt across the material plane, and the gods that reside in the realms that they connected to began to exert their influence over the Material Plane. 
 
 ---
 # Appendices

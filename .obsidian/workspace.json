@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07f80c6522e29aef",
+        "id": "d071cbed34f3c644",
         "type": "tabs",
         "children": [
           {
-            "id": "551094fceb3a979c",
+            "id": "d4d4ea1a700a7fba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World Mythology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Mythology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Mythology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Mythology.md"
+              }
             }
           },
           {
@@ -136,21 +144,13 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "45009b38e1e7c675",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,54 +168,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "floating": {
-    "id": "adab02b7974982e7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0464ad317d257f35",
-        "type": "window",
-        "children": [
-          {
-            "id": "c1b19c0a1b58ee02",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f15b4c0e0d3447d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Old Notes/World Notes - Old/Non Material Planes/Non-Material Planes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 476,
-        "y": 134,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "551094fceb3a979c",
+  "active": "d4d4ea1a700a7fba",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "World Mythology.md",
-    "To Do.md",
-    "Campaign Ideas.md",
-    "Old Notes/Scenario 1 - Where's Mommy.md",
-    "README.md",
-    "Race_Tree.canvas",
-    "Old Notes/OG Avenon.svg",
     "Avenon Map.svg",
-    "Old Notes/Avenon 2023-02-11-21-26.svg"
+    "World Mythology.md",
+    "Campaign Ideas.md",
+    "Avenon 2.0.svg",
+    "Avenon 2023-02-11-21-26.svg",
+    "World Notes/Countries.md",
+    "World Notes - Old/Avenon Map.svg",
+    "Worldbuilding Notes/Worldbuilding Technique - GRAPES.png",
+    "Worldbuilding Notes/World Building Chart.png",
+    "OG Avenon.svg"
   ]
 }
