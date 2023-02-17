@@ -35,15 +35,16 @@ The influence of these four rifts was felt across the material plane, and the go
 | Theov    | Humans, Dwarves, Halflings, Gnomes, Kender                 | Forge     | [[Material Plane]]         |
 | Zygrax   | Undead                                                     | Grave     | [[Shadowfell]]             |
 | Vilhorn  | Aarakocra, Kenku, Owlin                                    | Knowledge | [[The Shifting Tempest]]   |
-| Secity   | Plants, Beasts                                             | Life      | [[Fields of Elysia]]       |
-| Aurelia  | Angels, Aasimars, Celestials                               | Light     | [[Fields of Elysia]]       |
+| Secity   | Plants                                                     | Life      | [[Fields of Elysia]]       |
+| Aurelia  | Angels, Aasimars, Celestials                               | Light     | [[Islands of Paradise]]    |
 | Aphnovi  | Centaurs, Satyrs, Fairies, Firbolg, Harengon, Fey          | Nature    | [[Feywild]]                |
 | Raspeth  | Autognomes, Warforged, Goliaths, Constructs, Giants        | Order     | [[The Steadfast Mesa]]     |
-| Lucip    | Loxodon, Tritons, Merfolk                                  | Peace     | [[Islands of Paradise]]        |
+| Lucip    | Loxodon, Tritons, Merfolk                                  | Peace     | [[Islands of Paradise]]    |
 | Argow    | Dragonborn, Lizardfolk, Dragons, Kobolds, Tortles, Dragons | Tempest   | [[Material Plane]]         |
 | Rorrim   | Changeling, Shifters, Yuan-Ti                              | Trickery  | [[Material Plane]]         |
 | Calio    | Tieflings, Fiend (Devils)                                  | Twilight  | [[Fires of Mt. Perdition]] |
-| Mogirim  | Orcs, Goblins, Hobgoblins, Bugbears, Fiend (Demons)        | War       | [[Firestorm of Tartarus]]  | 
+| Mogirim  | Orcs, Goblins, Hobgoblins, Bugbears, Fiend (Demons)        | War       | [[Firestorm of Tartarus]]  |
+
 
 ### Other Races & Creatures
 Astral Elves - Elves that spent too much time in the space between the Elemental Ring and the Material Plane

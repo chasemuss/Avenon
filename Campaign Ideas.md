@@ -21,3 +21,6 @@ King Riku sent you into the Republic of Kexeter as he believed they were going t
 
 ## Scenario 3:
 You and your team of scouts have been recruited by the emperor of Harlish to infiltrate Zaoverinia and figure out what their next move is. You'll have a party of 3 other people to assist you as you sneak into high security buildings and figure out what they have in store for you next. 
+
+## Scenario 4:
+You and your party have found dragon eggs and will learn to raise them and wield their power as you deem fit. 

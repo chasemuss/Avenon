@@ -1,7 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "Templates/"
+    "Templates/",
+    "World Notes - Old/",
+    "README.md"
   ],
   "newFileLocation": "root",
   "promptDelete": false,

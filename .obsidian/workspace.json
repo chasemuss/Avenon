@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Mythology.md",
+                "file": "Campaign Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Mythology.md",
+                "file": "Campaign Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Mythology.md",
+                "file": "Campaign Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Mythology.md"
+                "file": "Campaign Ideas.md"
               }
             }
           },
@@ -171,14 +171,14 @@
   "active": "d4d4ea1a700a7fba",
   "lastOpenFiles": [
     "Avenon Map.svg",
-    "World Mythology.md",
     "Campaign Ideas.md",
+    "Material Plane.md",
+    "World Mythology.md",
+    "World Notes - Old/Non Material Planes/Non-Material Planes.md",
     "Avenon 2.0.svg",
     "Avenon 2023-02-11-21-26.svg",
     "World Notes/Countries.md",
     "World Notes - Old/Avenon Map.svg",
-    "Worldbuilding Notes/Worldbuilding Technique - GRAPES.png",
-    "Worldbuilding Notes/World Building Chart.png",
-    "OG Avenon.svg"
+    "Worldbuilding Notes/Worldbuilding Technique - GRAPES.png"
   ]
 }
