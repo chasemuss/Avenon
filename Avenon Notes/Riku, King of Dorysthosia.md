@@ -1,4 +1,4 @@
-Riku is a master of both Biomancy and Evocation magic. He was even able to split his soul & body into 2 parts, each dedicated to his two passions. Whenever the Kingdom of Alblewichia is in need, the two halves fuse together to make a fearsome Wizard King. 
+Riku is a master of both Transmutation and Evocation magic. He was even able to split his soul & body into 2 parts, each dedicated to his two passions. Whenever the Kingdom of Dorysthosia is in need, the two halves fuse together to make a fearsome Wizard King. 
 
 # Respeccing
 Riku is capable of reforming a person and allowing a player to respec / choose a new subclass or class for their character. This magic is quite powerful and to do so, he does charge a steep cost.  

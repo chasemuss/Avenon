@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Ideas.md",
+                "file": "Material Plane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa10e41f72d57cd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f3a3edd2a2c9986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes - Old/Old Notes/World Notes/Countries.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Ideas.md",
+                "file": "Material Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Ideas.md",
+                "file": "Material Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Ideas.md"
+                "file": "Material Plane.md"
               }
             }
           },
@@ -146,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,15 +188,15 @@
   },
   "active": "d4d4ea1a700a7fba",
   "lastOpenFiles": [
-    "Avenon Map.svg",
-    "Campaign Ideas.md",
+    "World Notes - Old/Old Notes/World Notes/Countries.md",
     "Material Plane.md",
+    "Campaign Ideas.md",
+    "Avenon Notes/Riku, King of Dorysthosia.md",
+    "Avenon Map.svg",
     "World Mythology.md",
     "World Notes - Old/Non Material Planes/Non-Material Planes.md",
     "Avenon 2.0.svg",
     "Avenon 2023-02-11-21-26.svg",
-    "World Notes/Countries.md",
-    "World Notes - Old/Avenon Map.svg",
-    "Worldbuilding Notes/Worldbuilding Technique - GRAPES.png"
+    "World Notes/Countries.md"
   ]
 }
